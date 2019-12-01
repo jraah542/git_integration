@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 12.4.1//EN
+N:;dr.fone;;;
+FN: dr.fone   
+EMAIL;type=INTERNET;type=HOME;type=pref:z77r@icloud.com
+EMAIL;type=INTERNET;type=WORK:z77r@hotmail.com
+item1.URL;type=pref:dr.fone
+item1.X-ABLabel:_$!<HomePage>!$_
+URL;type=HOME:dr.fone
+END:VCARD
